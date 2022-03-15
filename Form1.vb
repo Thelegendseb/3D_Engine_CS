@@ -57,6 +57,7 @@
         Return New Shape(ShapeType.BasedPrism,
                          New Vector(100, 100, 0), 'MAKE Z VALUE EFFECT
                          AShapeVert)
+
     End Function
     Private Sub Time_Tick(sender As Object, e As EventArgs) Handles Time.Tick
 

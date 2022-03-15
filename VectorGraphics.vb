@@ -54,6 +54,7 @@
                               NodeSize, NodeSize)
             End Using
         Next
+
     End Sub
 
     Private Sub Connect(i As Integer,
